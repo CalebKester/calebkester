@@ -1,6 +1,6 @@
 # Welcome! Hello World!
 
-> Version 0.0.1 Code NameL: Under Construction
+> Version 0.0.1 Code Name: Under Construction
 
 Thanks for stopping by. I'm Caleb Kester, a web designer, product developer, and someone who can turn ideas into websites.
 
